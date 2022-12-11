@@ -1,8 +1,8 @@
 package ua.com.alevel.test;
 
-public class Congratulation {
+public class Goodday {
 
-    public void showCongratulation() {
+    public void showGoodday() {
         System.out.println("dENIS!!!!");
     }
 }
