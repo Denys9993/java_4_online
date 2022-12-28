@@ -1,6 +1,6 @@
 package ua.com.alevel;
 
-class Handshake {
+public class Handshake {
     public static String message;
     public static String newMessage = "Hallo";
     String name;
